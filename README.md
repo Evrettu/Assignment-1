@@ -17,4 +17,6 @@ Learning how to add bullets in the game was important as being able to create ma
 Also learning how to make the player jump and limit the amount of times they can jump by creating a function that detects when the player is on the ground.
 The most important thing I learned was how to use public functions in diffrent scripts, this may have been one of the easier things to learn but is very important as it makes coding faster and easier.
 
+Video Link
+https://youtu.be/baInMgVlA3M
  
